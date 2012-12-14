@@ -1,4 +1,4 @@
-mp3server
+mp3client
 =========
-A win32 daemon mp3 server like mpd, and use port 6600 too, but the protocol is more simple.
-I also write a client called mp3client with gtk2.
+A mp3 client for the mp3server.
+The mp3server is a win32 mp3 service to play mp3 file, and mp3client is a gui controller of the server, like winamp but more simple.
